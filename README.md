@@ -32,5 +32,3 @@ Windows Build:
 <pre>
 gradlew.bat shadowJar
 </pre>
-
-ZZZ
