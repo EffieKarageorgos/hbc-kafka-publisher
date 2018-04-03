@@ -11,7 +11,7 @@ license {
   ignoreFailures false
   ext.inceptionYear = Calendar.getInstance().get(Calendar.YEAR)
   ext.owner = 'HBC Enterprise Services'
-  ext.email = 'admi@hbc.com'
+  ext.email = 'admin@hbc.com'
 
   mapping {
     scala='JAVADOC_STYLE'
